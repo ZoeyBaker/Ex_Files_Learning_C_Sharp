@@ -1,0 +1,5 @@
+C:\Users\zoeyb\source\repos\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet7\Start\Program Flow\Conditional-if\obj\Debug\net7.0\Conditionals.csproj.AssemblyReference.cache
+C:\Users\zoeyb\source\repos\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet7\Start\Program Flow\Conditional-if\obj\Debug\net7.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoeyb\source\repos\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet7\Start\Program Flow\Conditional-if\obj\Debug\net7.0\Conditionals.AssemblyInfoInputs.cache
+C:\Users\zoeyb\source\repos\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet7\Start\Program Flow\Conditional-if\obj\Debug\net7.0\Conditionals.AssemblyInfo.cs
+C:\Users\zoeyb\source\repos\Ex_Files_Learning_C_Sharp\LearningCSharp\DotNet7\Start\Program Flow\Conditional-if\obj\Debug\net7.0\Conditionals.csproj.CoreCompileInputs.cache
