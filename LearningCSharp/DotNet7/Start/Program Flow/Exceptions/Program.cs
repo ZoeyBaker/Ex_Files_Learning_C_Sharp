@@ -6,7 +6,7 @@ namespace Exceptions
     {
         static void Main(string[] args)
         {
-            int x = 100;
+            int x = 1002;
             int y = 0;
             int result;
 
