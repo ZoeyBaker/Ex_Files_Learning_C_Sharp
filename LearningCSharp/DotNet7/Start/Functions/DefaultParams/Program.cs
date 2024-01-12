@@ -7,7 +7,8 @@ void PrintWithPrefix(string thestr, string prefix)
 }
 
 // TODO: Test the default parameters
-
+PrintWithPrefix("Hell There!");
+PrintWithPrefix("Hell There!", ">: ");
 
 // TODO: Call with named params
-
+PrintWithPrefix(prefix: "% ", thestr: "Hello There");
